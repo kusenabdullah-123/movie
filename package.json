@@ -1,0 +1,22 @@
+{
+  "name": "movie",
+  "version": "1.0.0",
+  "description": "Movie Search",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kusenabdullah-123/movie.git"
+  },
+  "keywords": [
+    "movie"
+  ],
+  "author": "M Kusen Abdullah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kusenabdullah-123/movie/issues"
+  },
+  "homepage": "https://github.com/kusenabdullah-123/movie#readme"
+}
