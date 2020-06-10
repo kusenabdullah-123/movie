@@ -13,10 +13,21 @@
   "keywords": [
     "movie"
   ],
+  "scripts": {
+    "build": "webpack --mode production"
+  },
   "author": "M Kusen Abdullah",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kusenabdullah-123/movie/issues"
   },
-  "homepage": "https://github.com/kusenabdullah-123/movie#readme"
+  "homepage": "https://github.com/kusenabdullah-123/movie#readme",
+  "devDependencies": {
+    "css-loader": "^3.5.3",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.43.0"
+  },
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
 }
